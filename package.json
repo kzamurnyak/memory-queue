@@ -1,5 +1,5 @@
 {
-  "name": "worker-queue-manager",
+  "name": "memory-queue",
   "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",
